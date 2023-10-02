@@ -1,0 +1,31 @@
+Algoritmo acordar 
+
+INICIO
+
+1. Abrir os olhos;
+2. Se o alarme despertou;
+	1. Desligue o alarme;
+	2. Sente-se na cama;
+	3. Coloque os pés no chão;
+	4. Levante-se da cama;
+	5. Abrir a porta do quarto;
+	6. Caminhar até o banheiro;
+	7. Abrir a porta do banheiro; 
+	8. Entrar no banheiro;
+	9. Abrir a torneira da pia;
+	10. Lavar o Rosto;
+	11. Fechar torneira da pia;
+	12. Pegar toalha de rosto;
+	13. Secar o rosto;
+	14. Pendurar toalha;
+	15. Pegar a escova de dentes;
+	16. Pegar o creme dental;
+	17. Abrir o creme dental;
+	18. Colocar creme dental na escova de dentes;
+	19. Fechar creme dental;
+	20. Escovar os dentes;
+3. Se o alarme não despertou;
+	1. Fechar os olhos;
+	2. Voltar a dormir;
+FIM
+
